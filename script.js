@@ -212,4 +212,3 @@ function countdown(duration, count) {
     }
 }
 
-("hello")
